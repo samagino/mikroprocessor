@@ -1,0 +1,9 @@
+#+TITLE: Readme
+
+* Purpose
+So this is a MIPS microprocessor simulator implemented in minikanren. It exists
+because I felt like it. I think it's pretty cool tho tbqh fam. So like you can
+like put a program into it and it'll give you a state of the microprocessor and
+stuff. So that's cool. I dunno if I'm actually gonna follow through on this or
+if it's just gonna be another project that I never actually complete. We'll find
+out together. It'll be an adventure.

@@ -1,0 +1,17 @@
+#+TITLE: Quandries
+
+
+Okay, so we got general issues
+
+* Represent Hardware or Represent Logic?
+How faithfully should one try to represent the hardware of a MIPS processor?
+Should one try to literally represent a machine, or should one instead build
+machines that generate the same input/output relations of the physical
+machines in a MIPS microprocessor?
+** Current resolution
+The latter, just build relations that generate the inputs/outputs seen in
+their physical counterparts. Don't try to simulate electricity in able to
+make an and gate, make a relation that represents what an and gate does as a
+logical component. However, build everything from these logical components.
+
+* Bugs
